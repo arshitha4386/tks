@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: thistle;
+    height: 300px;
+    width:100px;
+    color: bisque;
+    margin-left: 25px;
+    background-image: url("./img/banner-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
